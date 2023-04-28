@@ -1,5 +1,5 @@
-### API Cursos 
-Cursos
+### Título 
+Backend Cursos API
 
 ### Descripción
 API que exponga los servicios de tipo REST que permitan tener un CRUD (Crear, Registrar,
@@ -20,18 +20,7 @@ Actualizar, Eliminar)
 7. Ejecuta `php artisan migrate` para crear las tablas de la base de datos.
 8. Ejecuta `php artisan serve` para iniciar el servidor de desarrollo.
 
-### Uso
-Explica cómo utilizar el proyecto, incluyendo cualquier información necesaria como rutas, controladores, modelos, y métodos de la API.
-
-### Contribución
-Indica cómo los usuarios pueden contribuir al proyecto, incluyendo información sobre el proceso de solicitud de pull request, pruebas, y reglas de estilo.
-
-### Licencia
-Agrega información sobre la licencia del proyecto.
-
-
-
-
+---------------------------------------------------------------------------------
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
