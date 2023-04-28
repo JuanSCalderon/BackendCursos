@@ -1,3 +1,38 @@
+### API Cursos 
+Cursos
+
+### Descripción
+API que exponga los servicios de tipo REST que permitan tener un CRUD (Crear, Registrar,
+Actualizar, Eliminar)
+
+### Requerimientos
+- PHP 7.0 o superior
+- Composer
+- MySQL
+
+### Instalación
+1. Clona el repositorio de GitHub.
+2. Abre una terminal y navega a la carpeta del proyecto.
+3. Ejecuta `composer install` para instalar las dependencias del proyecto.
+4. Crea una copia del archivo `.env.example` y renómbrala a `.env`.
+5. Configura las variables de entorno en el archivo `.env`, incluyendo la conexión a la base de datos.
+6. Ejecuta `php artisan key:generate` para generar una clave de aplicación.
+7. Ejecuta `php artisan migrate` para crear las tablas de la base de datos.
+8. Ejecuta `php artisan serve` para iniciar el servidor de desarrollo.
+
+### Uso
+Explica cómo utilizar el proyecto, incluyendo cualquier información necesaria como rutas, controladores, modelos, y métodos de la API.
+
+### Contribución
+Indica cómo los usuarios pueden contribuir al proyecto, incluyendo información sobre el proceso de solicitud de pull request, pruebas, y reglas de estilo.
+
+### Licencia
+Agrega información sobre la licencia del proyecto.
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
