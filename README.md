@@ -1,8 +1,9 @@
-### Nombre del proyecto
-Nombre del proyecto
+### API Cursos 
+Cursos
 
 ### Descripción
-Una breve descripción del proyecto.
+API que exponga los servicios de tipo REST que permitan tener un CRUD (Crear, Registrar,
+Actualizar, Eliminar)
 
 ### Requerimientos
 - PHP 7.0 o superior
